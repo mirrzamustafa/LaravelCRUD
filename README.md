@@ -9,12 +9,10 @@
 
 ## Project Installation 
 1. Clone the project.
-2. Download composer from https://getcomposer.org/download/
-3. Install composer.
-4. Open windows CLI
-5. Run 'composer' on your CLI to make sure it is operational.
-6. Give path of your cloned folder to CLI.
-7. Run 'php artisan serve'
-8. Run 'php artisan make:migration create_products_table --create=products'
-9. Run 'php artisan migrate'
-10. Project is served on 127.0.0.1:8000
+2. Download & Install composer from https://getcomposer.org/download/
+3. Open CLI & Run 'composer' on to make sure it is operational.
+4. Give path of your cloned folder to the CLI.
+5. Run 'php artisan serve'
+6. Run 'php artisan make:migration create_products_table --create=products'
+7. Run 'php artisan migrate'
+8. Project is served on 127.0.0.1:8000
