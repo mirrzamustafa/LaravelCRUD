@@ -8,11 +8,10 @@
 </p>
 
 ## Project Installation 
-1. Clone the project.
-2. Download & Install composer from https://getcomposer.org/download/
-3. Open CLI & Run 'composer' on to make sure it is operational.
-4. Give path of your cloned folder to the CLI.
-5. Run 'php artisan serve'
-6. Run 'php artisan make:migration create_products_table --create=products'
-7. Run 'php artisan migrate'
-8. Project is served on 127.0.0.1:8000
+1. Download & Install composer from https://getcomposer.org/download/
+2. Open CLI & Run 'composer' on to make sure it is operational.
+3. Give path of your cloned folder to the CLI.
+4. Run 'php artisan serve'
+5. Run 'php artisan make:migration create_products_table --create=products'
+6. Run 'php artisan migrate'
+7. Project is served on 127.0.0.1:8000
