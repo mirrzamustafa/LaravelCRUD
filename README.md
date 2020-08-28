@@ -5,6 +5,6 @@
 2. Open CLI & Run 'composer' to make sure it is operational.
 3. Give path of your cloned folder to the CLI.
 4. Run 'php artisan serve'
-5. Run 'php artisan make:migration create_products_table --create=products'
-6. Run 'php artisan migrate'
-7. Project is served on 127.0.0.1:8000
+5. Project is served on 127.0.0.1:8000
+6. Open a new CLI and Run 'php artisan make:migration create_products_table --create=products'
+8. Run 'php artisan migrate'
