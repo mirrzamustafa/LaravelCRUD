@@ -9,4 +9,3 @@
 6. Run 'php artisan migrate'
 7. Run 'php artisan serve'
 8. Project is served on 127.0.0.1:8000
-9. Now open 127.0.0.1:8000
