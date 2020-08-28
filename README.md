@@ -2,11 +2,11 @@
 
 ## Project Installation 
 1. Download & Install composer from https://getcomposer.org/download/
-2. Open CLI & Run 'composer' to make sure it is operational.
-3. Give path of your cloned folder to the CLI.
-4. Run 'php artisan serve'
-5. Project is served on 127.0.0.1:8000
-6. Create a DB named as 'laravel' on your server (for custom naming please update the .env file too)
-7. Open a new CLI and Run 'php artisan make:migration create_products_table --create=products'
-8. Run 'php artisan migrate'
+2. Give path of your cloned folder to the CLI.
+3. Run 'composer install'
+4. Run 'php artisan key:migrate'
+5. Create a DB named as 'laravel' on your server (for custom naming please update the .env file)
+6. Run 'php artisan migrate'
+7. Run 'php artisan serve'
+8. Project is served on 127.0.0.1:8000
 9. Now open 127.0.0.1:8000
