@@ -6,5 +6,7 @@
 3. Give path of your cloned folder to the CLI.
 4. Run 'php artisan serve'
 5. Project is served on 127.0.0.1:8000
-6. Open a new CLI and Run 'php artisan make:migration create_products_table --create=products'
+6. Create a DB named as 'laravel' on your server (for custom naming please update the .env file too)
+7. Open a new CLI and Run 'php artisan make:migration create_products_table --create=products'
 8. Run 'php artisan migrate'
+9. Now open 127.0.0.1:8000
